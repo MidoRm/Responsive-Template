@@ -29,7 +29,7 @@ body{
 
 /* direction-left used to making any element on right side*/
 .direction-right{
-    float: right
+    float: right;
 }
 
 .clear{
@@ -272,11 +272,13 @@ body{
     width: 100%;
     overflow: auto;
     margin-top: 40px;
+
 }
 
 .aboutMe-content .department .dept-part{
     width: 45%;
     margin-bottom: 30px;
+    padding-top: 20px;
 }
 
 .aboutMe-content .department .dept-part .icon{
